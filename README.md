@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 I am a college student currently studying at Anhui University of Science and Technology. My major is geographic information science, which is a subject that requires learning programming to get better development!
 
@@ -6,6 +7,6 @@ I am a college student currently studying at Anhui University of Science and Tec
 - 👯 I’m looking to collaborate on Gis secondary development
 - ⚡ Fun fact: secret
 
-### 📫 How to reach me: 
-！[Twitter Follow]
+
+
 
